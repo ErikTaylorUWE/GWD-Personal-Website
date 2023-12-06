@@ -1,8 +1,9 @@
 body {
-    background-color: black;
+    background-color: gray;
 }
 
 header {
+    background-color: black;
     padding: 10px 0px 10px 0px;
 }
 
@@ -72,3 +73,39 @@ h2 {
 
 /* CARP Page */
 
+.h2-carp {
+    text-align: center;
+}
+
+.poster-caption {
+    border: solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.poster1-section {
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.poster-image {
+    width: 595px;
+    height: 842px;
+
+}
+
+.poster-group {
+    width: 595px;
+}
+
+.poster2-section {
+    margin-top: 10px;
+}
