@@ -31,8 +31,6 @@ button {
     border-radius: 5px;
     font-size: large;
     width: 250px;
-    /* padding: 10px;
-    margin: 10px; */
     transition-duration: .6s;
     cursor: pointer;
 
@@ -55,7 +53,6 @@ button:active {
 }
 
 .text-container {
-    /* padding: 10px 0px 10px 0px; */
     max-width: 50%;
     text-align: left;
     text-shadow: 10px 10px 20px black;
@@ -100,10 +97,6 @@ p {
     font-size: medium;
     text-align: left;
     margin-top: 50px;
-}
-
-.section-one {
-
 }
 
 .container {
