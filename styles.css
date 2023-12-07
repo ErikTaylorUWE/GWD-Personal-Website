@@ -27,16 +27,20 @@ ul {
 
 button {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 1px solid white;
+    background-color: grey;
     border-radius: 5px;
     font-size: large;
-    padding: 10px;
-    margin: 10px;
+    width: 250px;
+    /* padding: 10px;
+    margin: 10px; */
     transition-duration: .6s;
+    cursor: pointer;
 
 }
 
 button:hover {
+    background-color: aqua;
+    color: rgb(78, 78, 78);
 
 }
 
