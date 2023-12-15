@@ -3,3 +3,23 @@ Elam, K. (2007) Typographic Systems of Design: Frameworks For Type Beyond the Gr
 Czarnecki, L. (2020) 7 Essential Typographic Layout Systems [online]. Https://type365.com/: Type365. [Accessed 15 November 2023].
 
 Budrick, C. (2020) Swiss Style: The Principles, the Typefaces & the Designers. [online]. Available from: https://www.printmag.com/featured/swiss-style-principles-typefaces-designers/ [Accessed 08 December 2023].
+
+Jackson, M. (2023) HTML/CSS Worksheet 1. BSC (HONS) Digital Media[online]. Available from: https://blackboard.uwe.ac.uk/ultra/courses/_358434_1/cl/outline [Accessed October 11 2023]
+
+Jackson, M. (2023) HTML/CSS Worksheet 2. BSC (HONS) Digital Media[online]. Available from: https://blackboard.uwe.ac.uk/ultra/courses/_358434_1/cl/outline [Accessed October 16 2023]
+
+Jackson, M. (2023) HTML/CSS Worksheet 3. BSC (HONS) Digital Media[online]. Available from: https://blackboard.uwe.ac.uk/ultra/courses/_358434_1/cl/outline [Accessed October 23 2023]
+
+Jackson, M. (2023) HTML/CSS Worksheet 4. BSC (HONS) Digital Media[online]. Available from: https://blackboard.uwe.ac.uk/ultra/courses/_358434_1/cl/outline [Accessed October 30 2023]
+
+Jackson, M. (2023) HTML/CSS Worksheet 5. BSC (HONS) Digital Media[online]. Available from: https://blackboard.uwe.ac.uk/ultra/courses/_358434_1/cl/outline [Accessed November 06 2023]
+
+W3Schools / HTML Images. Available from: https://www.w3schools.com/html/html_images.asp [Accessed October 10 2023]
+
+Codecademy / Learn CSS. Available from: https://www.codecademy.com/learn/learn-css [Accessed October 15 2023]
+
+Codecademy / Learn HTML. Available from: https://www.codecademy.com/learn/learn-html [Accessed October 12 2023]
+
+W3Schools / CSS Flexbox. Available from: https://www.w3schools.com/css/css3_flexbox.asp [Accessed November 12 2023]
+
+W3Schools / CSS Flex Container. Available from: https://www.w3schools.com/css/css3_flexbox_container.asp [Accessed November 12 2023]
