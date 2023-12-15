@@ -7,7 +7,7 @@ header {
     padding: 10px 0px 10px 0px;
 }
 
-h1 {
+h1,h2,h3 {
     font-family: 'Rubik', sans-serif;
     color: white;
     font-size: 40px;
@@ -59,8 +59,6 @@ button:active {
 }
 
 h2 {
-    font-family: 'Rubik', sans-serif;
-    color: white;
     font-size: 75px;
 }
 
@@ -136,5 +134,17 @@ p {
 
 .typo-group {
     width: 400px;
+}
+
+/* Reflection page */
+
+h3 {
+    font-size: 20px;
+}
+
+.worksheets {
+    font-family: 'Rubik', sans-serif;
+    text-align: center;
+    list-style: none;
 }
 
